@@ -1,2 +1,7 @@
 # rossmann_classifier
-Create lession 3 rossmann dataset and change it to a classifier model
+
+
+Create from fast ai lession 3 rossmann dataset and change 
+
+Changed dataset to try to predict on vow stock exchange as classifier and regression
+results are really bad.
